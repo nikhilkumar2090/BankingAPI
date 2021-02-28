@@ -1,0 +1,30 @@
+{
+  "Institutions": [
+    {
+      "institutionId": 78923,
+      "name": "First Credit Union"
+    },
+    {
+      "institutionId": 78924,
+      "name": "Bank of America"
+    },
+    {
+      "institutionId": 78925,
+      "name": "Citi Bank"
+    }
+  ],
+  "Members": [
+    {
+      "memberId": 234789,
+      "givenName": "John",
+      "surname": "Doe",
+      "institutionId": 78923,
+      "accounts": [
+        {
+          "accountId": 23456,
+          "balance": 12.5
+        }
+      ]
+    }
+  ]
+}
